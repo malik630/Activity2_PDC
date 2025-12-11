@@ -6,6 +6,7 @@ public class StreamingAdapter {
     }
 
     public int stream(){
+        facade.stream();
         return 0;
     }
 }

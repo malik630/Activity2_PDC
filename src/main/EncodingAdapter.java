@@ -6,6 +6,7 @@ public class EncodingAdapter {
     }
 
     public int encode(){
+        facade.encode();
         return 0;
     }
 }

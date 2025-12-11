@@ -5,6 +5,7 @@ public class CalendarAdapter {
     public  CalendarAdapter() {}
 
     public int calendar(){
+        facade.calendar();
         return 0;
     }
 }
